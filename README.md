@@ -1,4 +1,4 @@
-# vue-vuex
+# vue-vuex-app
 
 ## Project setup
 ```
